@@ -1,6 +1,6 @@
 <!-- 🖼️ Cover Image -->
 <p align="center">
-  <img src="assets/cover.jpg" alt="Project Cover Image" width="800">
+ <img src="https://raw.githubusercontent.com/Rambabu-kushwaha/Rambabu-Kushwaha/main/cover.jpg" alt="Cover Photo" style="width:100%; border-radius: 12px;" />
 </p>
 <!-- 🙋‍♂️ Intro -->
 <h1 align="center">Hi 👋, I'm Rambabu Kushwaha</h1>
