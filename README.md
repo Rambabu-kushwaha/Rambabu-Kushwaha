@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rambabu Kushwaha</h1>
+<h1 align="center">Hi, I'm Rambabu Kushwaha</h1>
 <h3 align="center">🚀 Full-Stack Developer | 🔍 Data Scientist | 🤖 AI/ML Engineer | ☁️ Cloud Enthusiast</h3>
 
 <p align="center">
@@ -22,49 +22,69 @@ I'm a Computer Science student passionate about using technology to solve real-w
 
 ---
 
-🛠️ **Languages and Tools**
+🛠️ **Languages & Tools I Use**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
+
+  <!-- Data & AI/ML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" />
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="40" />
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+
+  <!-- DevOps & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github-actions/github-actions.png" width="40" />
 </p>
 
 ---
 
 📈 **What I'm Currently Working On**
 
-- ⚙️ AI-Based Content Management System *(see my pinned repositories)*
-- 🧠 Deep Learning & Neural Networks (PyTorch, TensorFlow)
-- ☁️ Deploying apps using Streamlit + Flask + AWS
-- 📦 Exploring vector databases for AI-powered search
+- ⚙️ Building an AI Content Generation App using LLaMA, TTS, SadTalker
+- 🧠 Deep Learning Projects for Oral Cancer Detection & NLP Research
+- ☁️ Streamlit & Flask + AWS + Hugging Face deployment
+- 🤖 Reinforcement Learning + Prompt Engineering experiments
 
 ---
 
 🌟 **Domains I Love**
 
-- **Full-Stack Development** — MERN stack, REST APIs, frontend/backend optimization
-- **Data Science** — EDA, data wrangling, feature engineering, Pandas, NumPy, Scikit-learn
-- **AI/ML Engineering** — Classification, Regression, CV, NLP, Transformers, LLaMA
-- **Cloud Computing** — CI/CD, Docker, Kubernetes, AWS S3, EC2, Lambda
+- 💻 Full-Stack Development: MERN, REST APIs, Clean Architecture
+- 📊 Data Science: EDA, Feature Engineering, ML Pipelines
+- 🧠 AI/ML: CV, Transformers, Few-Shot Learning, Multimodal NLP
+- ☁️ Cloud/DevOps: Docker, AWS, GitHub Actions, CI/CD pipelines
 
 ---
 
-📫 **Get in Touch**
+📫 **Let’s Connect**
 
 - 📧 Email: rambabukushwaha4488@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rambabu-kushwaha-53281b25b/)
-
----
-
-⚡ **Fun Fact:**  
-_"I believe every problem has a solution — you just have to find the right dataset or write the right algorithm!"_
 
