@@ -1,10 +1,17 @@
-<h1 align="center">Hi, I'm Rambabu Kushwaha</h1>
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/Rambabu-kushwaha/Rambabu-kushwaha/main/cover.jpg](https://github.com/Rambabu-kushwaha/Rambabu-Kushwaha/blob/main/Cover_Photo)" width="100%" height="auto" alt="cover banner"/>
+</p>
+
+<!-- Name + Headline -->
+<h1 align="center">Hi 👋, I'm Rambabu Kushwaha</h1>
 <h3 align="center">🚀 Full-Stack Developer | 🔍 Data Scientist | 🤖 AI/ML Engineer | ☁️ Cloud Enthusiast</h3>
 
+<!-- Profile Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rambabu-kushwaha/Rambabu-kushwaha/main/edv.jpg" width="150" style="border-radius: 50%;" />
 </p>
 
+<!-- Social Buttons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/rambabu-kushwaha-53281b25b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,7 +32,7 @@ I'm a Computer Science student passionate about using technology to solve real-w
 🛠️ **Languages & Tools I Use**
 
 <p align="left">
-  <!-- Programming Languages -->
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -60,26 +67,25 @@ I'm a Computer Science student passionate about using technology to solve real-w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github-actions/github-actions.png" width="40" />
 </p>
 
 ---
 
 📈 **What I'm Currently Working On**
 
-- ⚙️ Building an AI Content Generation App using LLaMA, TTS, SadTalker
-- 🧠 Deep Learning Projects for Oral Cancer Detection & NLP Research
-- ☁️ Streamlit & Flask + AWS + Hugging Face deployment
-- 🤖 Reinforcement Learning + Prompt Engineering experiments
+- ⚙️ Building an AI Content Generation App using LLaMA, TTS, SadTalker  
+- 🧠 Deep Learning Projects for Oral Cancer Detection & NLP Research  
+- ☁️ Streamlit & Flask + AWS + Hugging Face deployment  
+- 🤖 Reinforcement Learning + Prompt Engineering experiments  
 
 ---
 
 🌟 **Domains I Love**
 
-- 💻 Full-Stack Development: MERN, REST APIs, Clean Architecture
-- 📊 Data Science: EDA, Feature Engineering, ML Pipelines
-- 🧠 AI/ML: CV, Transformers, Few-Shot Learning, Multimodal NLP
-- ☁️ Cloud/DevOps: Docker, AWS, GitHub Actions, CI/CD pipelines
+- 💻 Full-Stack Development: MERN, REST APIs, Clean Architecture  
+- 📊 Data Science: EDA, Feature Engineering, ML Pipelines  
+- 🧠 AI/ML: CV, Transformers, Few-Shot Learning, Multimodal NLP  
+- ☁️ Cloud/DevOps: Docker, AWS, GitHub Actions, CI/CD pipelines  
 
 ---
 
@@ -87,4 +93,5 @@ I'm a Computer Science student passionate about using technology to solve real-w
 
 - 📧 Email: rambabukushwaha4488@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rambabu-kushwaha-53281b25b/)
+
 
