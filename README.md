@@ -1,6 +1,6 @@
 <!-- 🖼️ Cover Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rambabu-kushwaha/Rambabu-kushwaha/main/cover.jpg" width="100%" height="auto" alt="cover banner"/>
+  <img src="https://raw.githubusercontent.com/Rambabu-kushwahaCover_Photo.jpg" width="100%" height="auto" alt="cover banner"/>
 </p>
 
 <!-- 🙋‍♂️ Intro -->
