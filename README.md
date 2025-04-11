@@ -1,17 +1,18 @@
+<!-- 🖼️ Cover Image -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/Rambabu-kushwaha/Rambabu-kushwaha/main/cover.jpg](https://github.com/Rambabu-kushwaha/Rambabu-Kushwaha/blob/main/Cover_Photo)" width="100%" height="auto" alt="cover banner"/>
+  <img src="https://raw.githubusercontent.com/Rambabu-kushwaha/Rambabu-kushwaha/main/cover.jpg" width="100%" height="auto" alt="cover banner"/>
 </p>
 
-<!-- Name + Headline -->
+<!-- 🙋‍♂️ Intro -->
 <h1 align="center">Hi 👋, I'm Rambabu Kushwaha</h1>
 <h3 align="center">🚀 Full-Stack Developer | 🔍 Data Scientist | 🤖 AI/ML Engineer | ☁️ Cloud Enthusiast</h3>
 
-<!-- Profile Image -->
+<!-- 🧑 Profile Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rambabu-kushwaha/Rambabu-kushwaha/main/edv.jpg" width="150" style="border-radius: 50%;" />
 </p>
 
-<!-- Social Buttons -->
+<!-- 🔗 Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/rambabu-kushwaha-53281b25b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
