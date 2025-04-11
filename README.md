@@ -1,8 +1,7 @@
 <!-- 🖼️ Cover Image -->
 <p align="center">
-  <img src="<img src="https://raw.githubusercontent.com/Rambabu-kushwaha/Rambabu-kushwaha/main/cover.jpg" width="100%" height="auto" alt="cover banner"/>
+  <img src="assets/cover.jpg" alt="Project Cover Image" width="800">
 </p>
-
 <!-- 🙋‍♂️ Intro -->
 <h1 align="center">Hi 👋, I'm Rambabu Kushwaha</h1>
 <h3 align="center">🚀 Full-Stack Developer | 🔍 Data Scientist | 🤖 AI/ML Engineer | ☁️ Cloud Enthusiast</h3>
