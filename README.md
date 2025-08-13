@@ -4,7 +4,7 @@
 </p>
 <!-- 🙋‍♂️ Intro -->
 <h1 align="center">Hi 👋, I'm Rambabu Kushwaha</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🔍 Data Scientist | 🤖 AI/ML Engineer | ☁️ Cloud Enthusiast</h3>
+<h3 align="center"> AI/ML | Cloud Computing 
 
 <!-- 🧑 Profile Image -->
 <p align="center">
